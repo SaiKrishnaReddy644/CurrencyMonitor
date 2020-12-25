@@ -1,0 +1,40 @@
+const BASE_URL = "https://api.exchangeratesapi.io/";
+
+const GET_BASE_URL = "latest?base=";
+
+const currenciesCodes = [
+  "CAD",
+  "EUR",
+  "HKD",
+  "ISK",
+  "PHP",
+  "DKK",
+  "HUF",
+  "CZK",
+  "GBP",
+  "RON",
+  "SEK",
+  "IDR",
+  "INR",
+  "BRL",
+  "RUB",
+  "HRK",
+  "JPY",
+  "THB",
+  "CHF",
+  "EUR",
+  "MYR",
+  "BGN",
+  "TRY",
+  "CNY",
+  "NOK",
+  "NZD",
+  "ZAR",
+  "USD",
+  "MXN",
+  "SGD",
+  "AUD",
+  "ILS",
+  "KRW",
+  "PLN"
+];

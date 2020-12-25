@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886387045795",
+    "firebase_url": "https://task-7f0f8.firebaseio.com",
+    "project_id": "task-7f0f8",
+    "storage_bucket": "task-7f0f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886387045795:android:571ae4689e08ddaf269616",
+        "android_client_info": {
+          "package_name": "com.currencyapp.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886387045795-o30b7r38n18gj85tlft6dra14mijn170.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsgSgNcfoo8uP2v-9lDpxMA_txM2LKSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886387045795-o30b7r38n18gj85tlft6dra14mijn170.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886387045795-q2gbvjsas2vhvah8thdtv7c4q4c970ce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.currencyapp.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
